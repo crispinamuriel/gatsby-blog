@@ -1,0 +1,15 @@
+.article  {
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+
+.article h3 {
+    color: #1ca086;
+}
+
+.article:hover {
+    box-shadow: 1px 2px gray;
+    background-color: #f7fefc;
+}
